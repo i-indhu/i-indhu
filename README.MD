@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indhuja R I</h1>
 <h3 align="center">A Passionate Frontend Developer & IT Student</h3>
 
-<p align="center">
+<p align="">
   <img src="https://komarev.com/ghpvc/?username=i-indhu&label=Profile%20views&color=0e75b6&style=flat" alt="i-indhu" />
 </p>
 
@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
