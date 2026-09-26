@@ -1,59 +1,93 @@
 <h1 align="center">Hi 👋, I'm Indhuja R I</h1>
 
 <p align="center">
-  <strong>Web Developer • Frontend • WordPress • UI Design</strong>
+  <strong>Web Developer @ Rank U Higher · Frontend · WordPress · UI Design</strong>
+</p>
+
+<p align="center">
+  <i>Building simple ideas into clean, useful & beautiful web experiences ✦</i>
 </p>
 
 <p align="center">
   <a href="https://i-indhu.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/✦%20Portfolio-Visit-111111?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/r-i-indhuja-9464422b0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=i-indhu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
-## ✦ About Me
+## ♡ A little about me
 
-I'm a **B.Sc IT graduate and Web Developer** who enjoys turning ideas into clean, responsive and user-friendly digital experiences.
+I'm a **B.Sc IT graduate and Web Developer at Rank U Higher**, interested in creating responsive websites, thoughtful interfaces and practical digital experiences.
 
-I like working at the intersection of **development + design** — building interfaces that not only work well, but also feel simple and enjoyable to use. ✨
+I enjoy combining **development + design** — writing code, experimenting with layouts and turning ideas into something people can actually use.
 
-* 💻 Currently working as a **Web Developer**
-* 🌐 Building responsive websites and web interfaces
+```text
+☕ Code       →       🎨 Design       →       ✨ Create
+```
+
+* 💻 Web Developer at **Rank U Higher**
+* 🌐 Building responsive websites & web interfaces
 * 🧩 Working with **WordPress & Elementor**
-* 🎨 Exploring **UI/UX & Figma**
-* 🌱 Currently strengthening **JavaScript & React**
-* 🚀 Moving towards **Full Stack Development**
-* ☕ Learning, building and improving one project at a time
+* 🎨 Exploring **Figma, UI layouts & responsive design**
+* 🌱 Strengthening my **JavaScript & React** skills
+* 🗄️ Learning more about databases & backend development
+* 🚀 Working towards **Full Stack Development**
 
 ---
 
-## 🛠️ What I Work With
+## ✦ My Toolkit
 
-### 🌐 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,git,github" />
-</p>
-
-### 🎨 Design & Tools
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
 </p>
 
-**Also familiar with:** Elementor • Canva • Supabase
+**HTML · CSS · JavaScript · WordPress · Elementor**
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+**Python · Java**
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
+
+**SQL · Supabase**
+
+### 🎨 UI & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+**Figma · Responsive Design · UI Layouts**
+
+### ☁️ Cloud & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vscode,git,github" />
+</p>
+
+**AWS · VS Code · Git · GitHub**
+
+### 📑 Productivity
+
+**Microsoft Office · Documentation · Presentation**
 
 ---
 
-## 🚀 Projects I'm Building
+## ✦ Things I'm Building
 
 <table>
 <tr>
@@ -61,12 +95,16 @@ I like working at the intersection of **development + design** — building inte
 
 ### 🛒 IV Maligai
 
-A grocery shopping platform concept created for a local family grocery business.
+A grocery shopping platform concept designed for a local family grocery business.
 
-**Focus:**
-Responsive UI • Product browsing • Cart • Checkout • Orders
+**Exploring**
 
-**Tech:** React • JavaScript • Supabase
+`Product Browsing` · `Cart` · `Checkout`
+`Orders` · `Responsive UI` · `Database`
+
+**Tech**
+
+`React` · `JavaScript` · `Supabase`
 
 </td>
 
@@ -74,12 +112,16 @@ Responsive UI • Product browsing • Cart • Checkout • Orders
 
 ### 💰 Expense & Budget Tracker
 
-A practical application designed to help users record expenses and manage their personal budget.
+A practical web application for recording expenses and keeping track of personal budgets.
 
-**Focus:**
-Expense tracking • Budget management • Clean UI
+**Exploring**
 
-**Tech:** HTML • CSS • JavaScript
+`Expense Tracking` · `Budget Management`
+`Simple UI` · `Data Handling`
+
+**Tech**
+
+`HTML` · `CSS` · `JavaScript`
 
 </td>
 </tr>
@@ -89,12 +131,15 @@ Expense tracking • Budget management • Clean UI
 
 ### 🌐 Personal Portfolio
 
-My personal developer portfolio showcasing my work, skills, projects and learning journey.
+My personal space on the web — showcasing my work, skills, projects and learning journey.
 
-**Focus:**
-Responsive design • UI • Personal branding
+**Exploring**
 
-**Tech:** HTML • CSS • JavaScript
+`Responsive Design` · `UI` · `Personal Branding`
+
+**Tech**
+
+`HTML` · `CSS` · `JavaScript`
 
 </td>
 
@@ -102,12 +147,16 @@ Responsive design • UI • Personal branding
 
 ### ✅ MyTask
 
-A modern task management project created while exploring React and Supabase.
+A task management project built while exploring modern frontend development.
 
-**Focus:**
-Task management • CRUD • Modern frontend
+**Exploring**
 
-**Tech:** React • Vite • Supabase
+`CRUD` · `Task Management`
+`React Components` · `Database`
+
+**Tech**
+
+`React` · `Vite` · `Supabase`
 
 </td>
 </tr>
@@ -115,58 +164,83 @@ Task management • CRUD • Modern frontend
 
 ---
 
-## 🌱 Currently Learning
+## ✦ Currently Exploring
 
 ```text
-HTML / CSS
-     ↓
+HTML + CSS
+     │
+     ▼
 JavaScript
-     ↓
+     │
+     ▼
 React
-     ↓
+     │
+     ▼
 Backend + Database
-     ↓
+     │
+     ▼
 Full Stack Development
 ```
 
-I'm currently focusing on improving my **JavaScript fundamentals**, building projects with **React**, and understanding how frontend applications connect with databases and backend services.
+Right now, I'm focusing on writing better **JavaScript**, understanding **React**, improving my UI implementation skills and learning how frontend applications communicate with databases.
 
 ---
 
-## 💼 My Development Journey
+## ✦ My Journey
 
 ```text
-🎓 B.Sc IT Graduate
-        │
-        ▼
+🎓 B.Sc IT
+      │
+      ▼
 🌐 Web Development
-        │
-        ├── HTML / CSS
-        ├── JavaScript
-        └── WordPress
-        │
-        ▼
+      │
+      ├── HTML
+      ├── CSS
+      ├── JavaScript
+      └── WordPress
+             │
+             ▼
 🎨 UI & Design
-        │
-        └── Figma / Elementor
-        │
-        ▼
+      │
+      ├── Figma
+      ├── Elementor
+      └── Responsive Layouts
+             │
+             ▼
+💻 Web Developer
+   @ Rank U Higher
+             │
+             ▼
 ⚛️ React
-        │
-        ▼
+             │
+             ▼
 🚀 Full Stack Development
 ```
 
 ---
 
-## 💡 What I Enjoy
+## ♡ What I Like Creating
 
-<p align="center">
-✨ Building clean interfaces &nbsp; • &nbsp;
-🎨 Exploring design &nbsp; • &nbsp;
-💻 Creating useful projects &nbsp; • &nbsp;
-🌱 Learning new technologies
-</p>
+```text
+01  ✦  Clean interfaces
+02  ✦  Responsive websites
+03  ✦  Practical web applications
+04  ✦  Simple user experiences
+05  ✦  Creative UI ideas
+06  ✦  Projects that solve small real-world problems
+```
+
+---
+
+## ✦ Beyond the Code
+
+I believe good development isn't only about writing code.
+
+It's also about:
+
+**Understanding → Designing → Building → Improving**
+
+I enjoy experimenting with layouts, learning through projects and making small improvements until an idea feels right. ✨
 
 ---
 
@@ -174,12 +248,12 @@ I'm currently focusing on improving my **JavaScript fundamentals**, building pro
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/r-i-indhuja-9464422b0/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://i-indhu.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/✦%20Portfolio-111111?style=for-the-badge" />
 </a>
 
-<a href="https://i-indhu.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://www.linkedin.com/in/r-i-indhuja-9464422b0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/itsmeindhu13">
@@ -195,9 +269,9 @@ I'm currently focusing on improving my **JavaScript fundamentals**, building pro
 ---
 
 <p align="center">
-  <i>“Building with curiosity, learning with purpose, creating with a little creativity ✨”</i>
+  <i>“Curious enough to learn. Creative enough to build. ✦”</i>
 </p>
 
 <p align="center">
-  <sub>Thanks for stopping by! ♡</sub>
+  <sub>Thanks for stopping by ♡</sub>
 </p>
