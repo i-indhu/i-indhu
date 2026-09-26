@@ -1,91 +1,80 @@
-<h1 align="center">Hi 👋, I'm Indhuja R I</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Web Developer @ Rank U Higher · Frontend · WordPress · UI Design</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,50:FFC3A0,100:C9A7EB&height=220&section=header&text=Hi%20There!%20I'm%20Indhuja%20✦&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20·%20Frontend%20·%20UI%20Designer&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <i>Building simple ideas into clean, useful & beautiful web experiences ✦</i>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://i-indhu.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/✦%20Portfolio-Visit-111111?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/r-i-indhuja-9464422b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=C9A7EB&center=true&vCenter=true&width=650&lines=Web+Developer+%40+Rank+U+Higher+%F0%9F%92%BB;Building+clean+%26+beautiful+web+experiences+%E2%9C%A6;WordPress+%7C+Elementor+%7C+React+%F0%9F%8C%B1;Turning+simple+ideas+into+useful+things+%E2%98%95" alt="Typing SVG" />
 
----
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/☕_Code-FFAFBD?style=for-the-badge&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/🎨_Design-FFC3A0?style=for-the-badge&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/✨_Create-C9A7EB?style=for-the-badge&logoColor=white"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## ♡ A little about me
 
-I'm a **B.Sc IT graduate and Web Developer at Rank U Higher**, interested in creating responsive websites, thoughtful interfaces and practical digital experiences.
-
-I enjoy combining **development + design** — writing code, experimenting with layouts and turning ideas into something people can actually use.
-
-```text
-☕ Code       →       🎨 Design       →       ✨ Create
+```yaml
+Name:        Indhuja R I
+Role:        Web Developer @ Rank U Higher
+Education:   B.Sc IT Graduate
+Focus:       Frontend Development · WordPress · UI Design
+Currently:   Strengthening JavaScript & React, exploring backend + databases
+Goal:        Becoming a Full Stack Developer 🚀
 ```
 
-* 💻 Web Developer at **Rank U Higher**
-* 🌐 Building responsive websites & web interfaces
-* 🧩 Working with **WordPress & Elementor**
-* 🎨 Exploring **Figma, UI layouts & responsive design**
-* 🌱 Strengthening my **JavaScript & React** skills
-* 🗄️ Learning more about databases & backend development
-* 🚀 Working towards **Full Stack Development**
+<img align="right" width="260" src="https://raw.githubusercontent.com/aditya-fyi/aditya-fyi/master/gifs/Coding.gif">
 
----
+- 🧩 Building responsive websites & interfaces with **WordPress & Elementor**
+- 🎨 Exploring **Figma**, UI layouts & responsive design systems
+- 🌱 Strengthening my **JavaScript** & **React** skills
+- 🗄️ Learning **databases & backend development**
+- 🚀 Working towards **Full Stack Development**
+- 💬 *"Curious enough to learn. Creative enough to build."*
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## ✦ My Toolkit
 
-### 🌐 Web Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
-</p>
+**🌐 Web Development**
 
-**HTML · CSS · JavaScript · WordPress · Elementor**
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress&theme=light" />
 
-### 💻 Programming
+**💻 Programming**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java&theme=light" />
 
-**Python · Java**
+**🗄️ Database & Backend**
 
-### 🗄️ Database & Backend
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=light" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-</p>
+**🎨 UI & Design**
 
-**SQL · Supabase**
+<img src="https://skillicons.dev/icons?i=figma&theme=light" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive_Design-FFC3A0?style=for-the-badge"/>
 
-### 🎨 UI & Design
+**☁️ Cloud & Dev Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,vscode,git,github&theme=light" />
 
-**Figma · Responsive Design · UI Layouts**
+**📑 Productivity**
 
-### ☁️ Cloud & Development Tools
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img src="https://img.shields.io/badge/Documentation-C9A7EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Presentation-FFAFBD?style=for-the-badge"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vscode,git,github" />
-</p>
+</div>
 
-**AWS · VS Code · Git · GitHub**
-
-### 📑 Productivity
-
-**Microsoft Office · Documentation · Presentation**
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## ✦ Things I'm Building
 
@@ -94,184 +83,140 @@ I enjoy combining **development + design** — writing code, experimenting with 
 <td width="50%">
 
 ### 🛒 IV Maligai
+A grocery shopping platform concept for a local family grocery business.
 
-A grocery shopping platform concept designed for a local family grocery business.
-
-**Exploring**
-
-`Product Browsing` · `Cart` · `Checkout`
-`Orders` · `Responsive UI` · `Database`
-
-**Tech**
-
-`React` · `JavaScript` · `Supabase`
+**Exploring:** Product Browsing · Cart · Checkout · Responsive UI · Database
+**Tech:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
-
 <td width="50%">
 
 ### 💰 Expense & Budget Tracker
+A practical web app for recording expenses and tracking personal budgets.
 
-A practical web application for recording expenses and keeping track of personal budgets.
-
-**Exploring**
-
-`Expense Tracking` · `Budget Management`
-`Simple UI` · `Data Handling`
-
-**Tech**
-
-`HTML` · `CSS` · `JavaScript`
+**Exploring:** Expense Tracking · Budget Management · Simple UI · Data Handling
+**Tech:** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
 ### 🌐 Personal Portfolio
+My personal space on the web — showcasing my work, skills & learning journey.
 
-My personal space on the web — showcasing my work, skills, projects and learning journey.
-
-**Exploring**
-
-`Responsive Design` · `UI` · `Personal Branding`
-
-**Tech**
-
-`HTML` · `CSS` · `JavaScript`
+**Exploring:** Responsive Design · UI · Personal Branding
+**Tech:** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-
 <td width="50%">
 
 ### ✅ MyTask
-
 A task management project built while exploring modern frontend development.
 
-**Exploring**
-
-`CRUD` · `Task Management`
-`React Components` · `Database`
-
-**Tech**
-
-`React` · `Vite` · `Supabase`
+**Exploring:** CRUD · Task Management · React Components · Database
+**Tech:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## ✦ Currently Exploring
 
-```text
-HTML + CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-React
-     │
-     ▼
-Backend + Database
-     │
-     ▼
-Full Stack Development
+<div align="center">
+
+```
+HTML + CSS  →  JavaScript  →  React  →  Backend + Database  →  Full Stack Development
 ```
 
-Right now, I'm focusing on writing better **JavaScript**, understanding **React**, improving my UI implementation skills and learning how frontend applications communicate with databases.
+*Right now, I'm focusing on writing better JavaScript, understanding React, improving my UI implementation skills, and learning how frontend applications communicate with databases.*
 
----
+</div>
 
 ## ✦ My Journey
 
-```text
+```
 🎓 B.Sc IT
-      │
-      ▼
-🌐 Web Development
-      │
-      ├── HTML
-      ├── CSS
-      ├── JavaScript
-      └── WordPress
-             │
-             ▼
-🎨 UI & Design
-      │
-      ├── Figma
-      ├── Elementor
-      └── Responsive Layouts
-             │
-             ▼
-💻 Web Developer
-   @ Rank U Higher
-             │
-             ▼
+     │
+     ▼
+🌐 Web Development ── HTML · CSS · JavaScript · WordPress
+     │
+     ▼
+🎨 UI & Design ── Figma · Elementor · Responsive Layouts
+     │
+     ▼
+💻 Web Developer @ Rank U Higher
+     │
+     ▼
 ⚛️ React
-             │
-             ▼
+     │
+     ▼
 🚀 Full Stack Development
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## ♡ What I Like Creating
 
-```text
-01  ✦  Clean interfaces
-02  ✦  Responsive websites
-03  ✦  Practical web applications
-04  ✦  Simple user experiences
-05  ✦  Creative UI ideas
-06  ✦  Projects that solve small real-world problems
-```
+<div align="center">
 
----
+| ✦ | ✦ | ✦ |
+|:---:|:---:|:---:|
+| 🧵 Clean interfaces | 📱 Responsive websites | 🛠️ Practical web apps |
+| 🎈 Simple user experiences | 💡 Creative UI ideas | 🌍 Projects solving small real-world problems |
+
+</div>
 
 ## ✦ Beyond the Code
 
-I believe good development isn't only about writing code.
+<div align="center">
 
-It's also about:
+💃 Dancer&nbsp; &nbsp; 🎨 Artist&nbsp; &nbsp; 🖌️ Designer&nbsp; &nbsp; 📖 Reader&nbsp; &nbsp; 🗣️ Good Communicator
 
 **Understanding → Designing → Building → Improving**
 
-I enjoy experimenting with layouts, learning through projects and making small improvements until an idea feels right. ✨
+*I enjoy experimenting with layouts, learning through projects, and making small improvements until an idea feels right.* ✨
 
----
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=indhuja-ri&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=C9A7EB&icon_color=FFAFBD&text_color=ffffff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=indhuja-ri&theme=radical&hide_border=true&background=00000000&ring=C9A7EB&fire=FFAFBD&currStreakLabel=FFC3A0"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indhuja-ri&theme=react-dark&hide_border=true&bg_color=00000000&color=C9A7EB&line=FFAFBD&point=FFC3A0"/>
+</div>
+
+> 💡 Replace `indhuja-ri` above with your actual GitHub username so the stats load correctly.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://i-indhu.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/✦%20Portfolio-111111?style=for-the-badge" />
-</a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-C9A7EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/r-i-indhuja-9464422b0/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+> 💡 Replace the `#` links above with your real profile URLs.
 
-<a href="https://www.hackerrank.com/profile/itsmeindhu13">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
+<br/>
 
-<a href="https://leetcode.com/u/itsmeindhu13/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+### “Curious enough to learn. Creative enough to build. ✦”
 
-</p>
+*Thanks for stopping by ♡*
 
----
+<img src="https://komarev.com/ghpvc/?username=indhuja-ri&color=c9a7eb&style=flat&label=Profile+Views"/>
 
-<p align="center">
-  <i>“Curious enough to learn. Creative enough to build. ✦”</i>
-</p>
+</div>
 
-<p align="center">
-  <sub>Thanks for stopping by ♡</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,50:FFC3A0,100:FFAFBD&height=120&section=footer"/>
